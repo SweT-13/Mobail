@@ -1,0 +1,66 @@
+.clock{
+    text-align: center;
+    padding-top: 1vh;
+    margin-bottom: 20px;
+}
+
+.clock table {
+    display: inline-flex;
+    border-collapse: collapse;
+}
+
+.clock td {
+    height: 2vw;
+    width: 2vw;
+    max-height: 20px;
+    max-width: 40px;
+    border: 0.01em solid;
+}
+
+.a {
+    background-color: #fff;
+}
+
+.b {
+    background-color: #fff;
+}
+
+.c {
+    background-color: #fff;
+}
+
+.d {
+    background-color: #fff;
+}
+
+.e {
+    background-color: #fff;
+
+}
+
+.f {
+    background-color: #fff;
+}
+
+.g {
+    background-color: #fff;
+}
+
+table.doter .doter {
+    background-color: #000;
+    -webkit-animation: myflash 5s ease infinite;
+}
+
+@-webkit-keyframes myflash {
+    0% {
+        background-color: #000;
+    }
+    50% {
+        background-color: #cccccc;
+    }
+    100% {
+        background-color: #000;
+    }
+}
+
+

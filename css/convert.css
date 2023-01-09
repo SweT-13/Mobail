@@ -1,0 +1,28 @@
+.convert{
+  margin: 0 10px;
+}
+
+.convert_block_item{
+    margin-bottom: 10px;
+}
+
+#val,#val2{
+    padding: 5px;
+    font-size: medium;
+    width: 200px;
+}
+
+#cur1, #cur2 {
+    font-size: large;
+}
+
+.coefficient {
+    margin: 10px;
+}
+
+.convert_result {
+    font-size: 1.5em;
+
+}
+
+
